@@ -10,5 +10,5 @@ BATI is being made because of generative AI. Since this is just made by one guy 
 # Versions
 There will be 2 separate versions, one as a chatbot and another to run inside of simulations. In the future, the simulation will have its own repo for people who want to fork it while the AI itself stays here.
 
-#Plans
+# Plans
 The current plans for BATI are to get a simple chatbot that is able to talk and does not make up details. The chatbot will not be very sophisticated, since the main goal is one not being a rigid ai while still not hallucinating. 
